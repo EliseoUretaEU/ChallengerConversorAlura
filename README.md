@@ -7,4 +7,5 @@
 - utilizamos ExchanceRate-API
 - Al inicio mostramos un menú donde debemos elegir la moneda a convertir
 - luego elejimos el monto
+- y le entrega el valor total de la conversión
    
